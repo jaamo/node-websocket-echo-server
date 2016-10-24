@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Simple websocket echo server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaamo/node-websocket-echo-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaamo/node-websocket-echo-server/issues"
+  },
+  "homepage": "https://github.com/jaamo/node-websocket-echo-server#readme",
+  "dependencies": {
+    "ws": "^1.1.1"
+  }
+}
